@@ -45,7 +45,7 @@ public class Activity_Registration extends AppCompatActivity {
         Button Registration = (Button) findViewById(R.id.Registration);
         Button Authentication = (Button) findViewById(R.id.Authentication);
         Button Next = (Button) findViewById(R.id.Next);
-
+//
     }
 
 
