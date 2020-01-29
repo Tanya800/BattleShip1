@@ -37,7 +37,7 @@ public class Activity_Registration extends AppCompatActivity {
         Password.setWidth(200);
         Password.setText("Пароль");
         LinerLayout.addView(Password);
-
+//
         EditText  Password_edit = new EditText(this);
         Password_edit.setWidth(200);
         LinerLayout.addView(Password_edit);
